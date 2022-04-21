@@ -13,8 +13,10 @@ email: "joseestrada@sandiego.edu"
 highlight_name: true
 interests:
 - Data Science
-- Artificial Intelligence
-- Business Intelligence
+- Machine Learning
+- Cloud Computing
+- Mentoring
+- Databases
 organizations:
 - name: University of San Diego
   url: https://www.sandiego.edu/
