@@ -25,20 +25,20 @@ feature:
   icon_pack: fab
   name: R
 - description:
-  icon: database-solid
-  icon_pack: custom
+  icon: database
+  icon_pack: fas
   name: SQL
 - description:
   icon: aws
   icon_pack: fab
   name: AWS
 - description:
-  icon: brain-solid
-  icon_pack: custom
+  icon: brain
+  icon_pack: fas
   name: Machine Learning
 - description:
-  icon: git-alt-brands
-  icon_pack: custom
+  icon: git-alt
+  icon_pack: fab
   name: Git
 
 # Uncomment to use emoji icons.
