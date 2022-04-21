@@ -1,0 +1,11 @@
+---
+date: "2022-04-01T00:00:00Z"
+external_link: https://onlinedegrees.sandiego.edu/lessons-learned-as-a-junior-data-scientist-during-my-graduate-studies/
+image:
+  caption: ''
+  focal_point: Smart
+summary: Sharing my experience as a graduate student in data science.
+tags:
+- Article
+title: Lessons Learned as a Junior Data Scientist During my Graduate Studies
+---
