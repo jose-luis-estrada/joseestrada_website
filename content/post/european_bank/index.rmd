@@ -3,7 +3,7 @@ date: "2019-07-12"
 diagram: true
 highlight: true
 image:
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+  caption:''
   placement: 10
 math: true
 title: European Bank Dataset
