@@ -1,0 +1,18 @@
+---
+date: "2021-04-19"
+diagram: true
+highlight: true
+image:
+  caption:''
+  placement: 10
+math: true
+title: Rain in Australia
+tags:
+- Predictive Modeling
+url_video: ''
+links:
+- name: GitHub Repo
+  url: https://github.com/jose-luis-estrada/Rain_in_Australia
+---
+[Jupyter Notebook](Rain_in_Australia.html)
+
